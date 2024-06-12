@@ -7,3 +7,5 @@
 4. Run command `source ./env/bin/activate`
 5. Run the command `pip install -r requirements.txt` to install all the packages required in your virtual environment.
 6. Run `python main.py` this will run the program.
+
+Credits: @Davidbombal
